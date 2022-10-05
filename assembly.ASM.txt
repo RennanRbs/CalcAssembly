@@ -209,4 +209,4 @@ or	edx, eax
 loop	converte
 mov	eax, edx
 pop	ebp
-ret
+ret 
